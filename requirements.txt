@@ -1,0 +1,3 @@
+# Python package requirements
+# Tkinter is included with standard Python distributions.
+# No extra package installation is required for the desktop app.
